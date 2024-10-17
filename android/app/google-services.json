@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125453160163",
+    "project_id": "trading-758b2",
+    "storage_bucket": "trading-758b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125453160163:android:8ba5c39666326d5422bfd6",
+        "android_client_info": {
+          "package_name": "com.example.zurumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX9bbHVXZ1NWQVCqsnNNQn1zjsU_uenY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
